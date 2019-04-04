@@ -39,7 +39,7 @@
 | <https://github.com/Inist-CNRS/ezmaster>                | <https://www.inist.fr/>            |
 | <https://github.com/Inist-CNRS/node-sphinxapi>          | <https://www.inist.fr/>            |
 | <https://github.com/ezpaarse-project/ezpaarse>          | <https://www.inist.fr/>            |
-| <http://www.ofeli.org>                                  | <http://math.univ-bpclermont.fr    |
+| <http://www.ofeli.org>                                  | <http://math.univ-bpclermont.fr>   |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
