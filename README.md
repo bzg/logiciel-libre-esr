@@ -1,16 +1,16 @@
-# Logiciels libres produits ou améliorés par des laboratoires ESR
+## Logiciels libres produits ou améliorés par des laboratoires ESR
 
 Voir [la liste](liste-ll-produits-esr.md).
 
-# Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
+## Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
 Voir [la liste](ecosysteme-valorisation-ll-esr.md).
 
-# Noms de domaine des laboratoires de recherche français
+## Noms de domaine des laboratoires de recherche français
 
 À faire.
 
-# Noms de domaine des universités françaises
+## Noms de domaine des universités françaises
 
 Liste des universités française : [CSV](universites-francaises.csv) ou [JSON](universites-francaises.json).
 
@@ -24,7 +24,7 @@ Construite à partir de cette requête SPARQL sur [Wikidata](https://query.wikid
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr" }
     }
 
-# Droits et contributions	
+## Droits et contributions	
 
 Les documents contenus dans ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.txt).
 
