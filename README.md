@@ -42,6 +42,7 @@
 | <http://www.ofeli.org>                                           | <http://math.univ-bpclermont.fr>                 |
 | <http://projets.pacea.u-bordeaux.fr/TIVMI/index.php?page=kesako> | <http://projets.pacea.u-bordeaux.fr/TIVMI>       |
 | <http://tulip.labri.fr/TulipDrupal>                              | <http://tulip.labri.fr>                          |
+| <https://www.labri.fr/perso/lsimon/glucose/>                     | <https://www.labri.fr>                           |
 |                                                                  | <https://github.com/CNRS-DSI-Dev>                |
 | <https://www.openrobots.org/wiki>                                | <https://www.laas.fr>                            |
 | <https://coq.inria.fr>                                           | <https://www.inria.fr>                           |
