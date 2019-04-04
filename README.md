@@ -51,6 +51,7 @@
 | <https://www.eclipse.org/atl/>                                   | <https://www.imt-atlantique.fr>                  |
 | <https://github.com/sympa-community/sympa>                       | <https://www.renater.fr>                         |
 | <https://www.mpfr.org>                                           | <https://www.inria.fr>                           |
+| <https://www.orfeo-toolbox.org>                                  | <https://cnes.fr>                                |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
