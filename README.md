@@ -19,6 +19,10 @@
 | <https://www.creatis.insa-lyon.fr/rio/vv>               | <https://www.creatis.insa-lyon.fr> |
 | <http://www.opengatecollaboration.org/>                 | <https://www.creatis.insa-lyon.fr> |
 | <https://en.wikipedia.org/wiki/Open_Cascade_Technology> |                                    |
+| <http://itk.org>                                        |                                    |
+| <http://vtk.org>                                        |                                    |
+| <http://cmake.org>                                      |                                    |
+| <http://paraview.org>                                   |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
@@ -28,6 +32,7 @@
 | <https://www.fondation-inria.fr>                 | <https://scikit-learn.fondation-inria.fr/> |
 | <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org/>        |
 | <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                       |
+| <https://www.kitware.fr>                         | ITK, VTK, CMake, Paraview                  |
 
 # Noms de domaine des universités françaises
 
