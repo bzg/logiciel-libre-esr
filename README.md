@@ -20,6 +20,7 @@
 | <https://www.fondation-inria.fr>                 | <https://scikit-learn.fondation-inria.fr/> |
 | <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org/>        |
 | <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                       |
+| <http://science-miner.com/>                      | <https://github.com/kermitt2/grobid>       |
 
 # Noms de domaine des universités françaises
 
