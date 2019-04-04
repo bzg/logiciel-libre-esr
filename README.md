@@ -49,6 +49,7 @@
 | <https://frama-c.com>                                            | <https://www.inria.fr>, <http://www-list.cea.fr> |
 | <http://www.info.univ-angers.fr/~claire/asperix/>                | <http://www.info.univ-angers.fr>                 |
 | <https://www.eclipse.org/atl/>                                   | <https://www.imt-atlantique.fr>                  |
+| <https://github.com/sympa-community/sympa>                       | <https://www.renater.fr>                         |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
