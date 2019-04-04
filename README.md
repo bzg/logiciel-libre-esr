@@ -1,10 +1,18 @@
-## Logiciels libres produits ou améliorés par des laboratoires ESR
+Le premier principal de ce dépôt est de faire un tour d'horizon des
+structures de droit privé créant de la valeur autour de logiciels
+libres produits par des laboratoires de recherche publique.  « Créer
+de valeur » peut s'entendre comme « créer de l'emploi ».
 
-Voir [la liste](liste-ll-produits-esr.md).
+Le but accessoire est de créer une liste (non exhaustive) des
+logiciels produits par ces laboratoires de recherche publique.
 
 ## Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
 Voir [la liste](ecosysteme-valorisation-ll-esr.md).
+
+## Logiciels libres produits ou améliorés par des laboratoires ESR
+
+Voir [la liste](liste-ll-produits-esr.md).
 
 ## Noms de domaine des laboratoires de recherche français
 
