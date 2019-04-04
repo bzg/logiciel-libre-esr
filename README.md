@@ -41,6 +41,7 @@
 | <https://github.com/ezpaarse-project/ezpaarse>                   | <https://www.inist.fr/>                    |
 | <http://www.ofeli.org>                                           | <http://math.univ-bpclermont.fr>           |
 | <http://projets.pacea.u-bordeaux.fr/TIVMI/index.php?page=kesako> | <http://projets.pacea.u-bordeaux.fr/TIVMI> |
+| <http://tulip.labri.fr/TulipDrupal/>                             | <http://tulip.labri.fr>                    |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
