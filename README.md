@@ -4,9 +4,10 @@
 |-------------------------------|------------------------------------|
 | <https://scikit-learn.org>    |                                    |
 | <https://ocaml.org>           |                                    |
+| <https://coq.inria.fr/>       | <https://www.inria.fr/>            | 
 | <https://www.cgal.org/>       |                                    |
 | <http://eigen.tuxfamily.org/> |                                    |
-| <https://www.scilab.org>      |                                    |
+| <https://www.scilab.org>      | <https://www.inria.fr/> (début)    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
