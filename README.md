@@ -34,7 +34,11 @@
 | <http://textometrie.ens-lyon.fr/?lang=fr>               |                                    |
 | <http://mumps.enseeiht.fr>                              | <http://www.enseeiht.fr>           |
 | <http://kicad-pcb.org>                                  |                                    |
-
+| <https://github.com/Inist-CNRS/lodex>                   | <https://www.inist.fr/>            |
+| <https://github.com/Inist-CNRS/computron>               | <https://www.inist.fr/>            |
+| <https://github.com/Inist-CNRS/ezmaster>                | <https://www.inist.fr/>            |
+| <https://github.com/Inist-CNRS/node-sphinxapi>          | <https://www.inist.fr/>            |
+| <https://github.com/ezpaarse-project/ezpaarse>          | <https://www.inist.fr/>            |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
