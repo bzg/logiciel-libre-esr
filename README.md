@@ -23,6 +23,14 @@
 | <http://vtk.org>                                        |                                    |
 | <http://cmake.org>                                      |                                    |
 | <http://paraview.org>                                   |                                    |
+| <https://github.com/Irstea/collec>                      | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/otolithe>                    | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/usact>                       | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/esfc>                        | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/escroc>                      | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/alisma>                      | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/ALPFORPLOTS>                 | <https://www.irstea.fr>            |
+| <https://github.com/Irstea/Redmine-mod-perl-auth>       | <https://www.irstea.fr>            |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
