@@ -23,7 +23,11 @@ Construite à partir de cette requête SPARQL sur [Wikidata](https://query.wikid
     ?item wdt:P856 ?url
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr" }
     }
-	
+
+# Noms de domaine des laboratoires de recherche français
+
+À faire.
+
 # Droits et contributions	
 
 Les documents contenus dans ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.txt).
