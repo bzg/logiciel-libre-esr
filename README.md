@@ -14,6 +14,7 @@
 | URL de la société                | Logiciels libres                           |
 |----------------------------------|--------------------------------------------|
 | <https://www.fondation-inria.fr> | <https://scikit-learn.fondation-inria.fr/> |
+| <https://www.fondation-inria.fr> | <https://www.softwareheritage.org/>        |
 
 # Noms de domaine des universités françaises
 
