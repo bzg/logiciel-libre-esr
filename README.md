@@ -6,6 +6,7 @@
 | <https://ocaml.org>           |                                    |
 | <https://www.cgal.org/>       |                                    |
 | <http://eigen.tuxfamily.org/> |                                    |
+| <https://www.scilab.org>      |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
