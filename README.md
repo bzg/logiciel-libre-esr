@@ -9,6 +9,7 @@
 | <http://eigen.tuxfamily.org/>         |                                    |
 | <https://www.scilab.org>              | <https://www.inria.fr/> (début)    |
 | <https://github.com/valette/Wavemesh> |                                    |
+| <https://projet.liris.cnrs.fr/dgtal/> | <https://liris.cnrs.fr/>           |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
