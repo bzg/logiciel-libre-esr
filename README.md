@@ -1,16 +1,28 @@
 # Logiciels libres produits ou améliorés par des laboratoires ESR
 
-| URL du logiciel libre                 | URL du labo contributeur principal |
-|---------------------------------------|------------------------------------|
-| <https://scikit-learn.org>            |                                    |
-| <https://ocaml.org>                   |                                    |
-| <https://coq.inria.fr/>               | <https://www.inria.fr/>            |
-| <https://www.cgal.org/>               |                                    |
-| <http://eigen.tuxfamily.org/>         |                                    |
-| <https://www.scilab.org>              | <https://www.inria.fr/> (début)    |
-| <https://github.com/valette/Wavemesh> |                                    |
-| <https://projet.liris.cnrs.fr/dgtal/> | <https://liris.cnrs.fr/>           |
-| <https://github.com/SimonRit/RTK>     |                                    |
+| URL du logiciel libre                                   | URL du labo contributeur principal |
+|---------------------------------------------------------|------------------------------------|
+| <https://scikit-learn.org>                              |                                    |
+| <https://ocaml.org>                                     |                                    |
+| <https://coq.inria.fr/>                                 | <https://www.inria.fr/>            |
+| <https://www.cgal.org/>                                 |                                    |
+| <http://eigen.tuxfamily.org/>                           |                                    |
+| <https://www.scilab.org>                                | <https://www.inria.fr/> (début)    |
+| <https://projet.liris.cnrs.fr/dgtal/>                   | <https://liris.cnrs.fr/>           |
+| <https://github.com/valette/Wavemesh>                   | <https://www.creatis.insa-lyon.fr> |
+| <https://github.com/SimonRit/RTK>                       | <https://www.creatis.insa-lyon.fr> |
+| <https://www.creatis.insa-lyon.fr/~valette/acvd.html>   | <https://www.creatis.insa-lyon.fr> |
+| <https://www.creatis.insa-lyon.fr/~valette/desk.html>   | <https://www.creatis.insa-lyon.fr> |
+| <https://www.creatis.insa-lyon.fr/site7/en/elavisu>     | <https://www.creatis.insa-lyon.fr> |
+| <https://www.creatis.insa-lyon.fr/inTag/index.html>     | <https://www.creatis.insa-lyon.fr> |
+| <http://www.jmrui.eu>                                   | <https://www.creatis.insa-lyon.fr> |
+| <https://www.creatis.insa-lyon.fr/rio/vv>               | <https://www.creatis.insa-lyon.fr> |
+| <http://www.opengatecollaboration.org/>                 | <https://www.creatis.insa-lyon.fr> |
+| <https://en.wikipedia.org/wiki/Open_Cascade_Technology> |                                    |
+| <http://itk.org>                                        |                                    |
+| <http://vtk.org>                                        |                                    |
+| <http://cmake.org>                                      |                                    |
+| <http://paraview.org>                                   |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
@@ -21,6 +33,7 @@
 | <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org/>        |
 | <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                       |
 | <http://science-miner.com/>                      | <https://github.com/kermitt2/grobid>       |
+| <https://www.kitware.fr>                         | ITK, VTK, CMake, Paraview                  |
 
 # Noms de domaine des universités françaises
 
