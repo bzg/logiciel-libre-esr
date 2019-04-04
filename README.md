@@ -2,6 +2,8 @@
 
 -   <https://scikit-learn.org>
 -   <https://ocaml.org>
+-   <https://www.cgal.org/>
+-   <http://eigen.tuxfamily.org/>
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
