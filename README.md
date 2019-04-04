@@ -4,11 +4,11 @@
 |------------------------------------------------------------------|--------------------------------------------|
 | <https://scikit-learn.org>                                       |                                            |
 | <https://ocaml.org>                                              |                                            |
-| <https://coq.inria.fr/>                                          | <https://www.inria.fr/>                    |
-| <https://www.cgal.org/>                                          |                                            |
-| <http://eigen.tuxfamily.org/>                                    |                                            |
-| <https://www.scilab.org>                                         | <https://www.inria.fr/> (début)            |
-| <https://projet.liris.cnrs.fr/dgtal/>                            | <https://liris.cnrs.fr/>                   |
+| <https://coq.inria.fr>                                           | <https://www.inria.fr>                     |
+| <https://www.cgal.org>                                           |                                            |
+| <http://eigen.tuxfamily.org>                                     |                                            |
+| <https://www.scilab.org>                                         | <https://www.inria.fr> (début)             |
+| <https://dgtal.org>                                              | <https://liris.cnrs.fr>                    |
 | <https://github.com/valette/Wavemesh>                            | <https://www.creatis.insa-lyon.fr>         |
 | <https://github.com/SimonRit/RTK>                                | <https://www.creatis.insa-lyon.fr>         |
 | <https://www.creatis.insa-lyon.fr/~valette/acvd.html>            | <https://www.creatis.insa-lyon.fr>         |
@@ -17,7 +17,7 @@
 | <https://www.creatis.insa-lyon.fr/inTag/index.html>              | <https://www.creatis.insa-lyon.fr>         |
 | <http://www.jmrui.eu>                                            | <https://www.creatis.insa-lyon.fr>         |
 | <https://www.creatis.insa-lyon.fr/rio/vv>                        | <https://www.creatis.insa-lyon.fr>         |
-| <http://www.opengatecollaboration.org/>                          | <https://www.creatis.insa-lyon.fr>         |
+| <http://www.opengatecollaboration.org>                           | <https://www.creatis.insa-lyon.fr>         |
 | <https://en.wikipedia.org/wiki/Open_Cascade_Technology>          |                                            |
 | <http://itk.org>                                                 |                                            |
 | <http://vtk.org>                                                 |                                            |
@@ -34,27 +34,27 @@
 | <http://textometrie.ens-lyon.fr/?lang=fr>                        |                                            |
 | <http://mumps.enseeiht.fr>                                       | <http://www.enseeiht.fr>                   |
 | <http://kicad-pcb.org>                                           |                                            |
-| <https://github.com/Inist-CNRS/lodex>                            | <https://www.inist.fr/>                    |
-| <https://github.com/Inist-CNRS/computron>                        | <https://www.inist.fr/>                    |
-| <https://github.com/Inist-CNRS/ezmaster>                         | <https://www.inist.fr/>                    |
-| <https://github.com/Inist-CNRS/node-sphinxapi>                   | <https://www.inist.fr/>                    |
-| <https://github.com/ezpaarse-project/ezpaarse>                   | <https://www.inist.fr/>                    |
+| <https://github.com/Inist-CNRS/lodex>                            | <https://www.inist.fr>                     |
+| <https://github.com/Inist-CNRS/computron>                        | <https://www.inist.fr>                     |
+| <https://github.com/Inist-CNRS/ezmaster>                         | <https://www.inist.fr>                     |
+| <https://github.com/Inist-CNRS/node-sphinxapi>                   | <https://www.inist.fr>                     |
+| <https://github.com/ezpaarse-project/ezpaarse>                   | <https://www.inist.fr>                     |
 | <http://www.ofeli.org>                                           | <http://math.univ-bpclermont.fr>           |
 | <http://projets.pacea.u-bordeaux.fr/TIVMI/index.php?page=kesako> | <http://projets.pacea.u-bordeaux.fr/TIVMI> |
-| <http://tulip.labri.fr/TulipDrupal/>                             | <http://tulip.labri.fr>                    |
-|                                                                  | <https://github.com/CNRS-DSI-Dev/>         |
+| <http://tulip.labri.fr/TulipDrupal>                              | <http://tulip.labri.fr>                    |
+|                                                                  | <https://github.com/CNRS-DSI-Dev>          |
 | <https://www.openrobots.org/wiki>                                | <https://www.laas.fr>                      |
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
-| URL de la société                                | Logiciels libres                           |
-|--------------------------------------------------|--------------------------------------------|
-| <https://www.fondation-inria.fr>                 | <https://scikit-learn.fondation-inria.fr/> |
-| <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org/>        |
-| <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                       |
-| <http://science-miner.com/>                      | <https://github.com/kermitt2/grobid>       |
-| <https://www.kitware.fr>                         | ITK, VTK, CMake, Paraview                  |
-| <https://www.pasteur.fr>                         | <http://icy.bioimageanalysis.org>          |
+| URL de la société                                | Logiciels libres                          |
+|--------------------------------------------------|-------------------------------------------|
+| <https://www.fondation-inria.fr>                 | <https://scikit-learn.fondation-inria.fr> |
+| <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org>        |
+| <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                      |
+| <http://science-miner.com>                       | <https://github.com/kermitt2/grobid>      |
+| <https://www.kitware.fr>                         | ITK, VTK, CMake, Paraview                 |
+| <https://www.pasteur.fr>                         | <http://icy.bioimageanalysis.org>         |
 
 # Noms de domaine des universités françaises
 
