@@ -10,14 +10,16 @@
 | <https://www.scilab.org>              | <https://www.inria.fr/> (début)    |
 | <https://github.com/valette/Wavemesh> |                                    |
 | <https://projet.liris.cnrs.fr/dgtal/> | <https://liris.cnrs.fr/>           |
+| <https://github.com/SimonRit/RTK>     |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
-| URL de la société                | Logiciels libres                           |
-|----------------------------------|--------------------------------------------|
-| <https://www.fondation-inria.fr> | <https://scikit-learn.fondation-inria.fr/> |
-| <https://www.fondation-inria.fr> | <https://www.softwareheritage.org/>        |
+| URL de la société                                | Logiciels libres                           |
+|--------------------------------------------------|--------------------------------------------|
+| <https://www.fondation-inria.fr>                 | <https://scikit-learn.fondation-inria.fr/> |
+| <https://www.fondation-inria.fr>                 | <https://www.softwareheritage.org/>        |
+| <http://openrtk.org/RTK/project/consortium.html> | <http://openrtk.org>                       |
 
 # Noms de domaine des universités françaises
 
