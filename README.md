@@ -2,6 +2,7 @@
 
 -   <https://scikit-learn.org>
 -   <https://ocaml.org>
+-   <https://www.cgal.org/>
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
