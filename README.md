@@ -1,13 +1,14 @@
 # Logiciels libres produits ou améliorés par des laboratoires ESR
 
-| URL du logiciel libre         | URL du labo contributeur principal |
-|-------------------------------|------------------------------------|
-| <https://scikit-learn.org>    |                                    |
-| <https://ocaml.org>           |                                    |
-| <https://coq.inria.fr/>       | <https://www.inria.fr/>            | 
-| <https://www.cgal.org/>       |                                    |
-| <http://eigen.tuxfamily.org/> |                                    |
-| <https://www.scilab.org>      | <https://www.inria.fr/> (début)    |
+| URL du logiciel libre                 | URL du labo contributeur principal |
+|---------------------------------------|------------------------------------|
+| <https://scikit-learn.org>            |                                    |
+| <https://ocaml.org>                   |                                    |
+| <https://coq.inria.fr/>               | <https://www.inria.fr/>            |
+| <https://www.cgal.org/>               |                                    |
+| <http://eigen.tuxfamily.org/>         |                                    |
+| <https://www.scilab.org>              | <https://www.inria.fr/> (début)    |
+| <https://github.com/valette/Wavemesh> |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
