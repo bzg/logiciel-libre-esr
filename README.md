@@ -32,7 +32,8 @@
 | <https://github.com/Irstea/ALPFORPLOTS>                 | <https://www.irstea.fr>            |
 | <https://github.com/Irstea/Redmine-mod-perl-auth>       | <https://www.irstea.fr>            |
 | <http://textometrie.ens-lyon.fr/?lang=fr>               |                                    |
-| <http://mumps.enseeiht.fr/>                             | <http://www.enseeiht.fr>           |
+| <http://mumps.enseeiht.fr>                              | <http://www.enseeiht.fr>           |
+| <http://kicad-pcb.org>                                  |                                    |
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
