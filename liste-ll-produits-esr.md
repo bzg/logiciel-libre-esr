@@ -16,7 +16,6 @@
 | <http://www.jmrui.eu>                                            | <https://www.creatis.insa-lyon.fr>               |
 | <https://www.creatis.insa-lyon.fr/rio/vv>                        | <https://www.creatis.insa-lyon.fr>               |
 | <http://www.opengatecollaboration.org>                           | <https://www.creatis.insa-lyon.fr>               |
-| <https://en.wikipedia.org/wiki/Open_Cascade_Technology>          |                                                  |
 | <http://itk.org>                                                 |                                                  |
 | <http://vtk.org>                                                 |                                                  |
 | <http://cmake.org>                                               |                                                  |
