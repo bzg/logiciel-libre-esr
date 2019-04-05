@@ -44,7 +44,6 @@
 | <https://www.labri.fr/perso/lsimon/glucose/>                     | <https://www.labri.fr>                                                    |
 |                                                                  | <https://github.com/CNRS-DSI-Dev>                                         |
 | <https://www.openrobots.org/wiki>                                | <https://www.laas.fr>                                                     |
-| <https://coq.inria.fr>                                           | <https://www.inria.fr>                                                    |
 | <https://frama-c.com>                                            | <https://www.inria.fr>, <http://www-list.cea.fr>                          |
 | <http://www.info.univ-angers.fr/~claire/asperix/>                | <http://www.info.univ-angers.fr>                                          |
 | <https://www.eclipse.org/atl/>                                   | <https://www.imt-atlantique.fr>                                           |
