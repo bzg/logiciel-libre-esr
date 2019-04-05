@@ -20,8 +20,8 @@
 | <http://www.jmrui.eu>                                            | <https://www.creatis.insa-lyon.fr>                                        |
 | <https://www.creatis.insa-lyon.fr/rio/vv>                        | <https://www.creatis.insa-lyon.fr>                                        |
 | <http://www.opengatecollaboration.org>                           | <https://www.creatis.insa-lyon.fr>                                        |
-| <https://micmac.ensg.eu>                                         | <http://www.ensg.eu/>		                                       |
-| <https://github.com/Francklin2/RTKLIB_Touchscreen_GUI>           | <http://www.ensg.eu/>						       |
+| <https://micmac.ensg.eu>                                         | <http://www.ensg.eu/>                                                     |
+| <https://github.com/Francklin2/RTKLIB_Touchscreen_GUI>           | <http://www.ensg.eu/>                                                     |
 | <http://itk.org>                                                 |                                                                           |
 | <http://vtk.org>                                                 |                                                                           |
 | <http://cmake.org>                                               |                                                                           |
@@ -63,6 +63,9 @@
 | <https://bitbucket.org/lamyj/medipy>                             | <http://plateforme.icube.unistra.fr>                                      |
 | <https://natrongithub.github.io>                                 | <https://www.inria.fr>                                                    |
 | <http://iramuteq.org>                                            | <https://www.lerass.com>                                                  |
+| <https://ivre.rocks/>                                            | <https://github.com/cea-sec/>                                             |
+| <https://miasm.re/>                                              | <https://github.com/cea-sec/>                                             |
+| <https://github.com/cea-sec/Sibyl/>                              | <https://github.com/cea-sec/>                                             |
+| <https://cea-hpc.github.io/clustershell/>                        | <https://github.com/cea-hpc/>                                             |
 | <http://www.open-paas.org>                                       | <https://www.lix.polytechnique.fr/>, <http://www.loria.fr/fr/>            |
 | <http://www.linshare.org>                                        | <https://www.https://www.inserm.fr/>				       |
-
