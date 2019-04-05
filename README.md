@@ -31,6 +31,21 @@ Construite à partir de cette requête SPARQL sur [Wikidata](https://query.wikid
     ?item wdt:P856 ?url
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr" }
     }
+    
+## Liste des logiciels libres développés par des personnes employées par des universités françaises 
+
+* [Requête Wikidata](https://query.wikidata.org/#SELECT%20%3Flogiciel%20%3FlogicielLabel%20%3Fdeveloppeur%20%3FdevelopeurLabel%20%3Femployeur%20%3FemployeurLabel%0AWHERE%20%7B%0A%20%20%3Flogiciel%20%28wdt%3AP31%2Fwdt%3AP279%2a%29%20wd%3AQ341.%0A%20%20%3Flogiciel%20wdt%3AP178%20%3Fdeveloppeur.%0A%20%20%3Fdeveloppeur%20wdt%3AP108%20%3Femployeur.%0A%20%20%3Femployeur%20wdt%3AP17%20wd%3AQ142.%0A%20%20%3Femployeur%20%28wdt%3AP31%2Fwdt%3AP279%2a%29%20wd%3AQ3551775%20.%0A%20
+%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cfr%22%20%7D%0A%7D)
+
+    SELECT ?logiciel ?logicielLabel ?developpeur ?developeurLabel ?employeur ?employeurLabel
+    WHERE {
+        ?logiciel (wdt:P31/wdt:P279*) wd:Q341.
+        ?logiciel wdt:P178 ?developpeur.
+        ?developpeur wdt:P108 ?employeur.
+        ?employeur wdt:P17 wd:Q142.
+        ?employeur (wdt:P31/wdt:P279*) wd:Q3551775 .
+         SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr" }
+    }
 
 ## Droits et contributions	
 
