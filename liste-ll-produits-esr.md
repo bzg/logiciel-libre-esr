@@ -1,8 +1,8 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                        |
 |------------------------------------------------------------------|---------------------------------------------------------------------------|
-| <https://scikit-learn.org>                                       |                                                                            |
-| <https://db.nomics.world>                                       | <https://www.cepremap.fr/>                                                                          |
-| <https://dynare.org/>                                       | <https://www.cepremap.fr/>                                                                          |
+| <https://scikit-learn.org>                                       |                                                                           |
+| <https://db.nomics.world>                                        | <https://www.cepremap.fr/>                                                |
+| <https://dynare.org/>                                            | <https://www.cepremap.fr/>                                                |
 | <https://ocaml.org>                                              |                                                                           |
 | <https://coq.inria.fr>                                           | <https://www.inria.fr>                                                    |
 | <https://www.cgal.org>                                           |                                                                           |
@@ -54,12 +54,8 @@
 | <https://gmic.eu>                                                | <https://www.ensicaen.fr>                                                 |
 | <http://dirac.cnrs-orleans.fr/MMTK.html>                         | <http://dirac.cnrs-orleans.fr>                                            |
 | <http://bigdft.org/Wiki/index.php?title=BigDFT_website>          | <http://inac.cea.fr/Phocea/Vie_des_labos/Ast/ast_groupe.php?id_groupe=12> |
-|
-| <https://github.com/lamyj/dicomifier>                            | <http://plateforme.icube.unistra.fr>
-|
-| <https://github.com/lamyj/dopamine> | <http://plateforme.icube.unistra.fr>
-|
-| <https://github.com/lamyj/odil> | <http://plateforme.icube.unistra.fr>
-|
-| <https://bitbucket.org/lamyj/medipy> | <http://plateforme.icube.unistra.fr>
-|
+| <https://github.com/lamyj/dicomifier>                            | <http://plateforme.icube.unistra.fr>                                      |
+| <https://github.com/lamyj/dopamine>                              | <http://plateforme.icube.unistra.fr>                                      |
+| <https://github.com/lamyj/odil>                                  | <http://plateforme.icube.unistra.fr>                                      |
+| <https://bitbucket.org/lamyj/medipy>                             | <http://plateforme.icube.unistra.fr>                                      |
+| <https://natrongithub.github.io>                                 | <https://www.inria.fr>                                                    |
