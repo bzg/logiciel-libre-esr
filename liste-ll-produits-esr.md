@@ -1,7 +1,7 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                        |
 |------------------------------------------------------------------|---------------------------------------------------------------------------|
-| <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr/> 
-|
+| <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr/>  |
+| <https://github.com/X-DataInitiative/tick>                       | <https://portail.polytechnique.edu/datascience/fr> |
 | <https://scikit-learn.org>                                       |                                                                           |
 | <https://db.nomics.world>                                        | <https://www.cepremap.fr/>                                                |
 | <https://dynare.org/>                                            | <https://www.cepremap.fr/>                                                |
@@ -20,10 +20,8 @@
 | <http://www.jmrui.eu>                                            | <https://www.creatis.insa-lyon.fr>                                        |
 | <https://www.creatis.insa-lyon.fr/rio/vv>                        | <https://www.creatis.insa-lyon.fr>                                        |
 | <http://www.opengatecollaboration.org>                           | <https://www.creatis.insa-lyon.fr>                                        |
-| <https://micmac.ensg.eu>                                         | <http://www.ensg.eu/>
-|
-| <https://github.com/Francklin2/RTKLIB_Touchscreen_GUI>           | <http://www.ensg.eu/>
-|
+| <https://micmac.ensg.eu>                                         | <http://www.ensg.eu/>		                                       |
+| <https://github.com/Francklin2/RTKLIB_Touchscreen_GUI>           | <http://www.ensg.eu/>						       |
 | <http://itk.org>                                                 |                                                                           |
 | <http://vtk.org>                                                 |                                                                           |
 | <http://cmake.org>                                               |                                                                           |
@@ -65,3 +63,6 @@
 | <https://bitbucket.org/lamyj/medipy>                             | <http://plateforme.icube.unistra.fr>                                      |
 | <https://natrongithub.github.io>                                 | <https://www.inria.fr>                                                    |
 | <http://iramuteq.org>                                            | <https://www.lerass.com>                                                  |
+| <http://www.open-paas.org>                                       | <https://www.lix.polytechnique.fr/>, <http://www.loria.fr/fr/>            |
+| <http://www.linshare.org>                                        | <https://www.https://www.inserm.fr/>				       |
+
