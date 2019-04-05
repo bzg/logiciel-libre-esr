@@ -66,4 +66,6 @@
 | <http://www.open-paas.org>                                       | <https://www.lix.polytechnique.fr/> --> Pilotage commun d'un PhD sur algorithme de résumé automatique depuis 2016, NLU/NLP<br> <http://www.loria.fr/fr/> --> Equipe Coast depuis 2013 : sécurité, infrastructure P2P           |
 | <http://www.linshare.org>                                        | <https://www.https://www.inserm.fr/>	--> Co créateur initial en 2007, expressions des features		       |
 | <http://www.linto.ai>                                        | <https://www.irit.fr/recherches/SAMOVA/pagelinto.html>	--> Equipe SAMoVA de l'IRIT depuis 2018<br>Traitement de l'acquisition sonore, reconnaissance et traitement du langage			       |
- 
+| <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr/>  |
+| <https://github.com/ifsttar/Tempus> | <https://www.ifsttar.fr/accueil/> |
+
