@@ -1,5 +1,7 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                        |
 |------------------------------------------------------------------|---------------------------------------------------------------------------|
+| <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr/>  |
+| <https://github.com/X-DataInitiative/tick>                       | <https://portail.polytechnique.edu/datascience/fr> |
 | <https://scikit-learn.org>                                       |                                                                           |
 | <https://db.nomics.world>                                        | <https://www.cepremap.fr/>                                                |
 | <https://dynare.org/>                                            | <https://www.cepremap.fr/>                                                |
@@ -65,3 +67,5 @@
 | <https://miasm.re/>                                              | <https://github.com/cea-sec/>                                             |
 | <https://github.com/cea-sec/Sibyl/>                              | <https://github.com/cea-sec/>                                             |
 | <https://cea-hpc.github.io/clustershell/>                        | <https://github.com/cea-hpc/>                                             |
+| <http://www.open-paas.org>                                       | <https://www.lix.polytechnique.fr/>, <http://www.loria.fr/fr/>            |
+| <http://www.linshare.org>                                        | <https://www.https://www.inserm.fr/>				       |
