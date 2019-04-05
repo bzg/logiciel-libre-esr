@@ -61,3 +61,7 @@
 | <https://bitbucket.org/lamyj/medipy>                             | <http://plateforme.icube.unistra.fr>                                      |
 | <https://natrongithub.github.io>                                 | <https://www.inria.fr>                                                    |
 | <http://iramuteq.org>                                            | <https://www.lerass.com>                                                  |
+| <https://ivre.rocks/>                                            | <https://github.com/cea-sec/>                                             |
+| <https://miasm.re/>                                              | <https://github.com/cea-sec/>                                             |
+| <https://github.com/cea-sec/Sibyl/>                              | <https://github.com/cea-sec/>                                             |
+| <https://cea-hpc.github.io/clustershell/>                        | <https://github.com/cea-hpc/>                                             |
