@@ -59,3 +59,4 @@
 | <https://github.com/lamyj/odil>                                  | <http://plateforme.icube.unistra.fr>                                      |
 | <https://bitbucket.org/lamyj/medipy>                             | <http://plateforme.icube.unistra.fr>                                      |
 | <https://natrongithub.github.io>                                 | <https://www.inria.fr>                                                    |
+| <http://iramuteq.org>                                            | <https://www.lerass.com>                                                  |
