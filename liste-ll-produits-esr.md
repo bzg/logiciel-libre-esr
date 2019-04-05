@@ -1,5 +1,6 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                        |
 |------------------------------------------------------------------|---------------------------------------------------------------------------|
+| <https://github.com/X-DataInitiative/tick>                       | <https://portail.polytechnique.edu/datascience/fr>
 | <https://scikit-learn.org>                                       |                                                                           |
 | <https://db.nomics.world>                                        | <https://www.cepremap.fr/>                                                |
 | <https://dynare.org/>                                            | <https://www.cepremap.fr/>                                                |
