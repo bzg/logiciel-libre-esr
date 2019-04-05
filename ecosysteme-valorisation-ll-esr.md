@@ -11,4 +11,4 @@
 | <https://www.opencascade.com>                                 | <https://fr.wikipedia.org/wiki/Open_CASCADE_Technology#Liens_externes> |
 | <https://jailbreak.paris/>                                    | <https://db.nomics.world/>                                             |
 | <https://scenari.org/co/home.html>, <http://scenari.kelis.fr> | <https://scenari.software/fr/>                                         |
-| <https://www.linagora.com/>                                   | <https://www.open-paas.org/>, <https://www.linshare.org/>, https://james.apache.org/       |
+| <https://www.linagora.com/>                                   | <https://www.open-paas.org/>, <https://www.linshare.org/>, https://james.apache.org/, https://www.linto.ai/ |
