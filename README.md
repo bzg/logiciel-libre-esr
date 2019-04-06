@@ -23,11 +23,11 @@ Deux suites possibles autour de cet effort de collection de ressouces:
 
 ## Comment contribuer ?
 
-- Vous pouvez ajouter des logiciels libres issues de la recherche publique en proposant d'enrichir [cette liste](liste-ll-produits-esr.md).
+- Vous pouvez [ajouter](https://github.com/bzg/logiciel-libre-esr/issues/new?assignees=&labels=&template=ajout-logiciel-libre-esr.md&title=) des logiciels libres issues de la recherche publique en proposant d'enrichir [cette liste](liste-ll-produits-esr.md).
 
-- Vous pouvez ajouter des sociétés de droit privé valorisant la recherche publique en proposant d'enrichir [cette liste](liste-ll-produits-esr.md).
+- Vous pouvez [ajouter](https://github.com/bzg/logiciel-libre-esr/issues/new?assignees=&labels=&template=ajout-structure-privee.md&title=) des sociétés de droit privé valorisant la recherche publique en proposant d'enrichir [cette liste](liste-ll-produits-esr.md).
 
-- Vous pouvez ajouter des [études de cas](etudes-de-cas.md) légères montrant comment s'est faite et/ou se fait la valorisation autour de ces logiciels libres.
+- Vous pouvez [ajouter](https://github.com/bzg/logiciel-libre-esr/issues/new?assignees=&labels=&template=ajout-etude-de-cas.md&title=) des [études de cas](etudes-de-cas.md) légères montrant comment s'est faite et/ou se fait la valorisation autour de ces logiciels libres.
 
 # Ressources
 
