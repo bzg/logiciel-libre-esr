@@ -27,6 +27,8 @@ Deux suites possibles autour de cet effort de collection de ressouces:
 
 - Vous pouvez ajouter des sociétés de droit privé valorisant la recherche publique en proposant d'enrichir [cette liste](liste-ll-produits-esr.md).
 
+- Vous pouvez ajouter des [études de cas](etudes-de-cas.md) légères montrant comment s'est faite et/ou se fait la valorisation autour de ces logiciels libres.
+
 # Ressources
 
 ## Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
