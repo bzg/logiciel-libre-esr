@@ -1,5 +1,6 @@
 | URL du logiciel libre                                            | URL du labo contributeur principal                                                  | 
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| <https://github.com/Deducteam/Dedukti>                           | <http://deducteam.gforge.inria.fr/> 
 | <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr>                                                   |
 | <https://github.com/X-DataInitiative/tick>                       | <https://portail.polytechnique.edu/datascience/fr>                                  |
 | <https://scikit-learn.org>                                       |                                                                                     |
