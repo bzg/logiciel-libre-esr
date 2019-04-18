@@ -1,7 +1,7 @@
-| URL du logiciel libre                                            | URL du labo contributeur principal                                                  | 
+| URL du logiciel libre                                            | URL du labo contributeur principal                                                  |
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| <http://medialab.github.io/artoo/>                               | <https://medialab.sciencespo.fr/>                                                   |
-| <https://github.com/Deducteam/Dedukti>                           | <http://deducteam.gforge.inria.fr/>                                                 |
+| <http://medialab.github.io/artoo>                                | <https://medialab.sciencespo.fr>                                                    |
+| <https://github.com/Deducteam/Dedukti>                           | <http://deducteam.gforge.inria.fr>                                                  |
 | <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr>                                                   |
 | <https://github.com/X-DataInitiative/tick>                       | <https://portail.polytechnique.edu/datascience/fr>                                  |
 | <https://scikit-learn.org>                                       |                                                                                     |
@@ -73,9 +73,10 @@
 | <http://textometrie.ens-lyon.fr>                                 | <http://ihrim.ens-lyon.fr>                                                          |
 | <http://www.sagemath.org>                                        | <http://www.u-psud.fr>, <http://www.lri.fr>                                         |
 | <http://gabedit.sourceforge.net>                                 | <http://ilm.univ-lyon1.fr/index.php?option=com_content&view=article&catid=34&id=65> |
-| <https://unitexgramlab.org/>                                     | <http://ligm.u-pem.fr/>                                                             |
-| <http://orbisgis.org/>                                           | <https://www.labsticc.fr/>                                                          |
-| <http://h2gis.org/>                                              | <https://www.labsticc.fr/>                                                          |
-| <http://noise-planet.org/noisecapture.html>                      | <https://www.labsticc.fr/>, <http://www.umrae.fr/>                                  |
-| <http://noise-planet.org/noisemodelling.html>                    | <https://www.labsticc.fr/>, <http://www.umrae.fr/>                                  |
+| <https://unitexgramlab.org>                                      | <http://ligm.u-pem.fr>                                                              |
+| <http://orbisgis.org>                                            | <https://www.labsticc.fr>                                                           |
+| <http://h2gis.org>                                               | <https://www.labsticc.fr>                                                           |
+| <http://noise-planet.org/noisecapture.html>                      | <https://www.labsticc.fr>, <http://www.umrae.fr>                                    |
+| <http://noise-planet.org/noisemodelling.html>                    | <https://www.labsticc.fr>, <http://www.umrae.fr>                                    |
 | <https://framagit.org/synalp/olki/olki>                          | <https://synalp.loria.fr>                                                           |
+| <https://github.com/linbox-team>                                 | <http://univ-grenoble-alpes.fr>, <https://www.umontpellier.fr>                      |
