@@ -58,4 +58,4 @@ Liste des universités française : [CSV](universites-francaises.csv) ou [JSON](
 
 Les documents contenus dans ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.txt).
 
-Les contributions sont les bienvenues : merci d'ouvrir une =issue= ou de proposer une =Pull Request=.
+Les contributions sont les bienvenues : merci d'ouvrir une =issue= ou de proposer une `Pull Request`.
