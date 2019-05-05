@@ -71,7 +71,7 @@
 | <http://factominer.free.fr/index.html>                           | <https://www.agrocampus-ouest.fr>                                                   |
 | <https://github.com/ifsttar/Tempus>                              | <https://www.ifsttar.fr/accueil>                                                    |
 | <http://textometrie.ens-lyon.fr>                                 | <http://ihrim.ens-lyon.fr>                                                          |
-| <http://www.sagemath.org>                                        | <http://www.u-psud.fr>, <http://www.lri.fr>                                         |
+| <https://www.sagemath.org>                                        | <http://www.u-psud.fr>, <http://www.lri.fr>                                         |
 | <http://gabedit.sourceforge.net>                                 | <http://ilm.univ-lyon1.fr/index.php?option=com_content&view=article&catid=34&id=65> |
 | <https://unitexgramlab.org>                                      | <http://ligm.u-pem.fr>                                                              |
 | <http://orbisgis.org>                                            | <https://www.labsticc.fr>                                                           |
