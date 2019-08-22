@@ -31,6 +31,10 @@ Deux suites possibles autour de cet effort de collection de ressouces:
 
 # Ressources
 
+## Le répertoire `ressources` proposes des ressources pour aller plus loin
+
+- [consortium.md](ressources/consortium.md) : pourquoi et comment monter un consortium autour d'un projet de logiciel libre dans la recherche ?
+
 ## Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
 Voir [la liste](ecosysteme-valorisation-ll-esr.md).
@@ -56,6 +60,6 @@ Liste des universités française : [CSV](universites-francaises.csv) ou [JSON](
 
 ## Droits et contributions
 
-Les documents contenus dans ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.txt).
+Les documents contenus dans ce dépôt sont, sauf exception indiquée dans un fichier, publiés sous [licence Ouverte 2.0](LICENSE.txt).
 
 Les contributions sont les bienvenues : merci d'ouvrir une =issue= ou de proposer une `Pull Request`.
