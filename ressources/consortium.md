@@ -1,7 +1,7 @@
 Consortium - Patrick Moreau - le 09/01/2015
 ===
 
-_Publié sous licence CC By-SA 3.0_
+_Publié sous licence [CC By-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/fr/)_
 
 Ce chapitre se focalise sur un outil précieux pour la
 **pré-maturation** de logiciels : le consortium.
