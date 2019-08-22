@@ -1,10 +1,10 @@
 Consortium - Patrick Moreau - le 09/01/2015
 ===
 
-/Publié sous licence CC By-SA 3.0/
+_Publié sous licence CC By-SA 3.0_
 
-Ce chapitre se focalise sur un outil précieux pour la **pré-maturation
-**de logiciels : le consortium.
+Ce chapitre se focalise sur un outil précieux pour la
+**pré-maturation** de logiciels : le consortium.
 
 La création d’un consortium permet de mutualiser les coûts, les
 efforts de développement, de promotion et d’animation de la communauté
@@ -280,7 +280,7 @@ de l'édition du logiciel.
 Autrement dit, ne rien faire conduira à terme à l'abandon par ces
 acteurs de l’utilisation du logiciel.
 
-Remarque : Si des entreprises contribuent sur le logiciel, il faudra
+Remarque : si des entreprises contribuent sur le logiciel, il faudra
 aussi recueillir leurs attendus spécifiques.
 
 ### Analyse
@@ -404,14 +404,12 @@ objectifs qui guideront les moyens à mettre en œuvre et les actions de
 développement du logiciel mais aussi de développement *business* du
 consortium.
 
-### Remarque
-
-En effet, il est essentiel de différentier les moyens des objectifs. Par
-exemple, animer une communauté d’utilisateur est un moyen pour accroître
-l'audience, recueillir les besoins des membres est un moyen pour obtenir
-un logiciel de plus en plus viable commercialement. De même, recruter un
-ingénieur de développement n'est pas un objectif mais un moyen pour
-obtenir un logiciel industrialisé.
+Remarque : en effet, il est essentiel de différentier les moyens des
+objectifs. Par exemple, animer une communauté d’utilisateur est un
+moyen pour accroître l'audience, recueillir les besoins des membres
+est un moyen pour obtenir un logiciel de plus en plus viable
+commercialement. De même, recruter un ingénieur de développement n'est
+pas un objectif mais un moyen pour obtenir un logiciel industrialisé.
 
 ## 4.2 – Les grandes questions à se poser
 
