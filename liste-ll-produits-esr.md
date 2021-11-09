@@ -38,7 +38,7 @@
 | <https://github.com/Irstea/Redmine-mod-perl-auth>                | <https://www.irstea.fr>                                                             |
 | <http://textometrie.ens-lyon.fr/?lang=fr>                        |                                                                                     |
 | <http://mumps.enseeiht.fr>                                       | <http://www.enseeiht.fr>                                                            |
-| <http://kicad-pcb.org>                                           |                                                                                     |
+| <http://kicad.org>                                               |                                                                                     |
 | <https://github.com/Inist-CNRS/lodex>                            | <https://www.inist.fr>                                                              |
 | <https://github.com/Inist-CNRS/computron>                        | <https://www.inist.fr>                                                              |
 | <https://github.com/Inist-CNRS/ezmaster>                         | <https://www.inist.fr>                                                              |
